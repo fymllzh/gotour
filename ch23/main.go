@@ -11,7 +11,7 @@ import (
 //	t:=reflect.TypeOf(u)
 //	v:=reflect.ValueOf(u)
 //	fmt.Println(t,v)
-//	u1:=v.Interface().(User)
+//	u1:=v.Interface().(User
 //	fmt.Println(u1)
 //	t1:=v.Type()
 //	fmt.Println(t1)
