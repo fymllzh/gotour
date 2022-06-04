@@ -27,7 +27,7 @@ func main()  {
 	//var c float32 = 12.3
 	//var d float64 =float64(c)
 	//fmt.Println(a,b,c,d)
-	// 输出各数值范围
+	// 输出各数值范围222
 	//将整型转浮点型111
 	ss := []string{"Monday", "Tuesday", "Wednesday"}
 	s := strings.Join(ss, "|")
